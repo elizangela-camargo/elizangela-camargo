@@ -1,18 +1,31 @@
-### Hello there ! 
+
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" min-width="50" max-width="25px">
 
 
-<h3>Sobre mim</h1>
+### Sobre mim
+Eu sou uma metamorfose ambulante na área de tecnologia, sempre em busca de novos desafios!
+Eu gosto de muita coisa, desde pegar uma tarde ensolarada para passear com minha filha, até , star wars , star trek, política em fim , muita coisa mesmno !Mas aprender é uma das atividade que eu mais gosto.
 <div>
 
+
+python -m venv myenv
+
+  
+  
+  
   
 
 
 <h3>Atividades no Github</h3>
+
 <div align="center">
   <a href="https://github.com/elizangela-camargo">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=elizangela-camargo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizangela-camargo&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
+
 
 
 
