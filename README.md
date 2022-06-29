@@ -8,7 +8,6 @@ Eu gosto de muita coisa, desde pegar uma tarde ensolarada para passear com minha
 <div>
 
 
-python -m venv myenv
 
   
   
