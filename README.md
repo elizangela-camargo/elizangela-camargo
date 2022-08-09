@@ -3,8 +3,8 @@
 
 
 ### Sobre mim
-Eu sou uma metamorfose ambulante na área de tecnologia, sempre em busca de novos desafios!
-Eu gosto de muita coisa, desde pegar uma tarde ensolarada para passear com minha filha, até , star wars , star trek, política em fim , muita coisa mesmno !Mas aprender é uma das atividade que eu mais gosto.
+Gosto de novos desafios.
+Entusiasta na área de tecnologia!
 <div>
 
 
